@@ -15,7 +15,7 @@
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:layout_centerHorizontal="true"
-            android:src="@color/colorPrimary"
+            android:src="@mipmap/ic_profil_round"
             app:civ_border_width="2dp"
             app:civ_border_color="#FF000000"
             android:layout_marginTop="16dp"
@@ -74,7 +74,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:drawableTop="@mipmap/ic_poker"
+                    android:drawableTop="@drawable/ic_action_name"
                     android:text="Menu 1"
                     android:textAllCaps="false"
                     android:background="@android:color/transparent"/>
@@ -84,7 +84,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:drawableTop="@mipmap/ic_poker"
+                    android:drawableTop="@drawable/ic_action_name"
                     android:text="Menu 1"
                     android:textAllCaps="false"
                     android:background="@android:color/transparent"/>
@@ -94,7 +94,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:drawableTop="@mipmap/ic_poker"
+                    android:drawableTop="@drawable/ic_action_name"
                     android:text="Menu 1"
                     android:textAllCaps="false"
                     android:background="@android:color/transparent"/>
@@ -113,7 +113,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:drawableTop="@mipmap/ic_party"
+                    android:drawableTop="@drawable/ic_action_name"
                     android:text="Menu 2"
                     android:textAllCaps="false"
                     android:background="@android:color/transparent"/>
@@ -123,7 +123,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:drawableTop="@mipmap/ic_party"
+                    android:drawableTop="@drawable/ic_action_name"
                     android:text="Menu 2"
                     android:textAllCaps="false"
                     android:background="@android:color/transparent"/>
@@ -133,7 +133,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:drawableTop="@mipmap/ic_party"
+                    android:drawableTop="@drawable/ic_action_name"
                     android:text="Menu 2"
                     android:textAllCaps="false"
                     android:background="@android:color/transparent"/>
@@ -152,7 +152,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:drawableTop="@mipmap/ic_poker"
+                    android:drawableTop="@drawable/ic_action_name"
                     android:text="Menu 3"
                     android:textAllCaps="false"
                     android:background="@android:color/transparent"/>
@@ -162,7 +162,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:drawableTop="@mipmap/ic_poker"
+                    android:drawableTop="@drawable/ic_action_name"
                     android:text="Menu 3"
                     android:textAllCaps="false"
                     android:background="@android:color/transparent"/>
@@ -172,7 +172,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:drawableTop="@mipmap/ic_poker"
+                    android:drawableTop="@drawable/ic_action_name"
                     android:text="Menu 3"
                     android:textAllCaps="false"
                     android:background="@android:color/transparent"/>

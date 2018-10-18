@@ -18,6 +18,7 @@ public class DetailMenuActivity extends AppCompatActivity {
         setContentView(R.layout.activity_detail_menu);
 
         Toolbar toolbar = findViewById(R.id.toolbar);
+        toolbar.setTitle("Detail");
         setSupportActionBar(toolbar);
 
         list = new ArrayList<>();
